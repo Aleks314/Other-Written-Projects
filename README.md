@@ -3,7 +3,7 @@ A further collation of other written works and codes (where applicable). This re
 
 Mathematical Geoscience - a study of jökulhlaups, otherwise known as glacial outburst flooding, an investigation into the mechanism that govern these phenomena.
 
-Finite Element Methods - a study into solving Laplace's equation in both convex and non-convex domains.
+Finite Element Methods for Partial Differential Equations - a study into solving Laplace's equation in both convex and non-convex domains.
 
 Biological Microswimmers (Mathematical Modelling) - a study into the different mechanism that explain the accumulation of microorganism into corners of their containers, even when stochastic motion is assumed. 
 
