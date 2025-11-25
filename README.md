@@ -1,5 +1,5 @@
 # Other-Written-Projects
-A further collation of other written works and codes (where applicable). This repository contains written in the following fields:
+A further collation of other written works and codes (where applicable). This repository contains written works in the following fields:
 
 Mathematical Geoscience - a study of jökulhlaups, otherwise known as glacial outburst flooding, an investigation into the mechanism that govern these phenomena.
 
