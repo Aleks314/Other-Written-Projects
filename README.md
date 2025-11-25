@@ -7,5 +7,5 @@ Finite Element Methods for Partial Differential Equations - a study into solving
 
 Biological Microswimmers (Mathematical Modelling) - a study into the different mechanism that explain the accumulation of microorganism into corners of their containers, even when stochastic motion is assumed. 
 
-Image Colourisation (Scientific Computing) - a study of the recolourisation of greyscale images with minimal colour information, made more accessible through the implementation of our software into a more accesible GUI. 
+Image Colourisation (Scientific Computing) - a study of the recolourisation of greyscale images with minimal colour information, made more accessible through the implementation of our software into a more accesible GUI. A copy of the working code is also included, although the entire repository can be found at: https://github.com/tomhall-git/sci-comp-case-study.
 
